@@ -1,0 +1,19 @@
+<pre><font color="#26A269"><b>srit@srit-HP-Pro-3090-MT</b></font>:<font color="#12488B"><b>~/204G1A0557/CNOSLAB2/OSLAB</b></font>$ ./a.out
+
+Enter the number of processes -- 4
+
+Enter Burst Time for Process 0 -- 1
+
+Enter Burst Time for Process 1 -- 4
+
+Enter Burst Time for Process 2 -- 67
+
+Enter Burst Time for Process 3 -- 78
+	 PROCESS 	BURST TIME 	 WAITING TIME	 TURNAROUND TIME
+
+	 P0 		 1 		 0 		 1
+	 P1 		 4 		 1 		 5
+	 P2 		 67 		 5 		 72
+	 P3 		 78 		 72 		 150
+Average Waiting Time -- 19.500000
+Average Turnaround Time -- 57.000000</pre>
