@@ -1,9 +1,9 @@
-/*Name Of the Candidate: A.Megharshini
+/* Name Of the Candidate: A.Megharhini
    Roll No: 204G1A0557
    Title of the Experiment: CPU Scheduling Using FCFS Algorithm
    Date of Creation: 06-09-2022
-   Date of Execution: 06-09-2022*/
-/*source code*/
+   Date of Execution: 06-09-2022
+*/
 
 #include<stdio.h>
 int main()
