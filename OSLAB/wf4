@@ -1,0 +1,12 @@
+<pre>Enter the number of blocks:3
+Enter the number of files:1
+
+Enter the size of the blocks:-
+Block 1:4
+Block 2:6
+Block 3:8
+Enter the size of the files :-
+File 1:2
+
+File_no:	File_size :	Block_no:	Block_size:	Fragement
+1		2		1		4		2</pre>
