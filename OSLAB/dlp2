@@ -1,0 +1,11 @@
+<pre>Enter no of jobs: 4
+Enter name and time: P 2
+Enter name and time: Q 45
+Enter name and time: R 9 
+Enter name and time: S 7
+Enter the available resources:20
+PSRNo safe sequence
+Safe sequence is:P 2
+S 7
+R 9
+</pre>

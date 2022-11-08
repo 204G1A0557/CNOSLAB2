@@ -1,0 +1,12 @@
+<pre>Enter no of jobs: 5
+Enter name and time: A 8
+Enter name and time: B 5
+Enter name and time: C 0
+Enter name and time: D 2
+Enter name and time: E 6
+Enter the available resources:30
+CDBEASafe sequence is:C 0
+D 2
+B 5
+E 6
+A 8</pre>
