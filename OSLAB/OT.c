@@ -6,15 +6,13 @@
 */
 
 #include<stdio.h>
-#include<conio.h>
 int fr[3], n, m;
 void display();
-void main()
+int main()
 {
 int i,j,page[20],fs[10];
 int max,found=0,lg[3],index,k,l,flag1=0,flag2=0,pf=0;
 float pr;
-clrscr();
 printf("Enter length of the reference string: ");
 scanf("%d",&n);
 printf("Enter the reference string: ");
@@ -95,8 +93,8 @@ display();
 }
 printf("Number of page faults : %d\n", pf);
 pr=(float)pf/n*100;
-printf("Page fault rate = %f \n", pr); getch();
-
+printf("Page fault rate = %f \n", pr);
+return 0;
 }
 void display()
 {

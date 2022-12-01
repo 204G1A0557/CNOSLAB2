@@ -1,0 +1,17 @@
+<pre>Enter length of the reference string: 12
+Enter the reference string: 1 2 6 4 7 8 3 8 5 9 4 2
+Enter no of frames: 3
+1	-1	-1	
+1	2	-1	
+1	2	6	
+4	2	6	
+4	2	7	
+4	2	8	
+4	3	8	
+4	3	8	
+4	5	8	
+4	9	8	
+4	9	8	
+2	9	8	
+Number of page faults : 10
+Page fault rate = 83.333328 </pre>
